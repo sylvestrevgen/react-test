@@ -4,20 +4,20 @@
     "static/js/0.5a63ed9f.chunk.js": "/react-test/static/js/0.5a63ed9f.chunk.js",
     "static/js/0.5a63ed9f.chunk.js.map": "/react-test/static/js/0.5a63ed9f.chunk.js.map",
     "main.css": "/react-test/static/css/main.164e7c83.chunk.css",
-    "main.js": "/react-test/static/js/main.eb021eca.chunk.js",
-    "main.js.map": "/react-test/static/js/main.eb021eca.chunk.js.map",
+    "main.js": "/react-test/static/js/main.425cf915.chunk.js",
+    "main.js.map": "/react-test/static/js/main.425cf915.chunk.js.map",
     "posts-page.css": "/react-test/static/css/posts-page.b178b624.chunk.css",
-    "posts-page.js": "/react-test/static/js/posts-page.64693166.chunk.js",
-    "posts-page.js.map": "/react-test/static/js/posts-page.64693166.chunk.js.map",
-    "runtime-main.js": "/react-test/static/js/runtime-main.32f6b182.js",
-    "runtime-main.js.map": "/react-test/static/js/runtime-main.32f6b182.js.map",
+    "posts-page.js": "/react-test/static/js/posts-page.57a1a24b.chunk.js",
+    "posts-page.js.map": "/react-test/static/js/posts-page.57a1a24b.chunk.js.map",
+    "runtime-main.js": "/react-test/static/js/runtime-main.4f4bd2c3.js",
+    "runtime-main.js.map": "/react-test/static/js/runtime-main.4f4bd2c3.js.map",
     "single-post-page.css": "/react-test/static/css/single-post-page.d81a4292.chunk.css",
     "single-post-page.js": "/react-test/static/js/single-post-page.a9b4a010.chunk.js",
     "single-post-page.js.map": "/react-test/static/js/single-post-page.a9b4a010.chunk.js.map",
-    "static/js/5.c1d4be73.chunk.js": "/react-test/static/js/5.c1d4be73.chunk.js",
-    "static/js/5.c1d4be73.chunk.js.map": "/react-test/static/js/5.c1d4be73.chunk.js.map",
+    "static/js/5.79fb6dc6.chunk.js": "/react-test/static/js/5.79fb6dc6.chunk.js",
+    "static/js/5.79fb6dc6.chunk.js.map": "/react-test/static/js/5.79fb6dc6.chunk.js.map",
     "index.html": "/react-test/index.html",
-    "precache-manifest.1c4f6ecc58ce2280324042c0a5c6afac.js": "/react-test/precache-manifest.1c4f6ecc58ce2280324042c0a5c6afac.js",
+    "precache-manifest.0a17fe49865303e1331765634768023f.js": "/react-test/precache-manifest.0a17fe49865303e1331765634768023f.js",
     "service-worker.js": "/react-test/service-worker.js",
     "static/css/0.5dbdccff.chunk.css.map": "/react-test/static/css/0.5dbdccff.chunk.css.map",
     "static/css/main.164e7c83.chunk.css.map": "/react-test/static/css/main.164e7c83.chunk.css.map",
@@ -25,9 +25,9 @@
     "static/css/single-post-page.d81a4292.chunk.css.map": "/react-test/static/css/single-post-page.d81a4292.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.32f6b182.js",
-    "static/js/5.c1d4be73.chunk.js",
+    "static/js/runtime-main.4f4bd2c3.js",
+    "static/js/5.79fb6dc6.chunk.js",
     "static/css/main.164e7c83.chunk.css",
-    "static/js/main.eb021eca.chunk.js"
+    "static/js/main.425cf915.chunk.js"
   ]
 }
