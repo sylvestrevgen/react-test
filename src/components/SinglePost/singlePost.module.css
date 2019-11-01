@@ -1,0 +1,24 @@
+.post {
+  padding: 20px 20px;
+  box-shadow: 0px 3px 8px 1px rgba(0, 0, 0, 0.2);
+  margin-bottom: 20px;
+}
+
+.title {
+  margin-bottom: 20px;
+}
+
+.title::after,
+.body::after {
+  content: '';
+  display: block;
+  margin-top: 20px;
+  width: 100%;
+  height: 1px;
+  opacity: 0.3;
+  background-color: #505050;
+}
+
+.body {
+  margin-bottom: 20px;
+}

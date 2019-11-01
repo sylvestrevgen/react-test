@@ -1,0 +1,9 @@
+.title {
+  margin-bottom: 10px;
+  font-size: 16px;
+}
+
+.listWrap {
+  padding: 20px;
+  box-shadow: 0px 0px 2px 1px rgba(0, 0, 0, 0.2);
+}
